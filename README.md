@@ -1,1 +1,2 @@
 # odin-recipes
+This project will compile multiple recipes in one website. Each recipe will be contained on its own webpage, and there will be links and lists aplenty. It is an efficient and delicious way to incorporate The Odin Project's lessons in HTML and, eventually, CSS and Javascript.
