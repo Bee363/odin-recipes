@@ -1,0 +1,21 @@
+* {
+    margin-right: 130px;
+    margin-left: 10px
+}
+h1 {
+    background-color: violet;
+    font-family: "Courier New", sans-serif, "Times New Roman";
+}
+ul {
+    list-style: none;
+}
+h3 {
+    background-color: teal;
+    color: rgb(208, 226, 201);
+    font-family: Cambria, sans-serif, "Times New Roman";
+    font-weight: lighter;
+    text-align: center;
+}
+img {
+    margin-left: 25px;
+}
