@@ -2,6 +2,9 @@
     margin-right: 130px;
     margin-left: 10px;
 }
+body {
+    background-color: rgb(158, 113, 158);
+}
 h1 {
     background-color: violet;
     font-family: "Courier New", sans-serif, "Times New Roman";
